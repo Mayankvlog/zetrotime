@@ -41,3 +41,4 @@ Press Space to start/stop, L to record laps, R to reset. Switch between stopwatc
 ## License
 
 MIT License - Free for personal and commercial use.
+# zetrotime
